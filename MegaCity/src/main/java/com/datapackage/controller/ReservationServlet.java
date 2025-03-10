@@ -42,6 +42,6 @@ public class ReservationServlet extends HttpServlet {
         } else {
             request.setAttribute("message", "Reservation failed. Try again.");
         }
-        request.getRequestDispatcher("reservation.jsp").forward(request, response);
+        request.getRequestDispatcher("views/allVehicles.jsp").forward(request, response);
     }
 }

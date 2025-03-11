@@ -56,7 +56,7 @@
                 <div class="card">
                     <h5>Add Drivers</h5>
                     <p>Register new drivers.</p>
-                    <a href="addDriver.jsp" class="btn btn-large waves-effect waves-light">Go</a>
+                    <a href="AddDrivers.jsp" class="btn btn-large waves-effect waves-light">Go</a>
                 </div>
             </div>
 
